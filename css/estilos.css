@@ -1,0 +1,81 @@
+body{
+
+}
+header{
+width: 100%;
+height: 150px;
+
+
+}
+.contenedorheader {
+  width: 77%;
+  margin-left: 9%;
+  /*border: 1px solid black;*/
+  padding-top: 2.5em;
+  padding-bottom: 4.3em;
+  background-color: #dee4e6;
+}
+.contenedorheader img {
+  margin-left: 150px ;
+  margin-top: 25px;
+
+}
+img{
+  background-color: #dee4e6;
+}
+
+.menu  {
+  float: right;
+  margin-top: 30px;
+  margin-right: 105px;
+}
+li {
+  text-decoration: none ;
+  display: inline-block;
+  font-size: 1.3em;
+  margin-left: 20px;
+  color: #404d5d;
+}
+
+
+#banner {
+  margin-top: 15px;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 1px;
+}
+
+#tienda {
+  width:77%;
+  height: 300px;
+  background-color: #dee4e6;
+  margin-left: 9.4%;
+}
+.tiendacontenedor {
+padding-left: 19%;
+padding-top:  5%;
+}
+.cuadrad {
+/*border: 1px solid black;*/
+width: 210px;
+height: 210px;
+display: inline-block;
+background-color: white;
+margin-left: 5px;
+margin-right: 5px;
+
+}
+#marcas {
+  border: 1px solid black;
+  height:250px ;
+  width:77%;
+  margin-left: 125px;
+
+}
+footer {
+  width: 77%;
+  height: 120px;
+  margin-left: 125px;
+  background-color: red;
+}
